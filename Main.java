@@ -19,7 +19,7 @@ public class Main
             summe = summe +1;
         }
         
-        int mul = 1;
+        double mul = 1;
 
         for (int i = 2; i <= obereGrenze; i++)
 
