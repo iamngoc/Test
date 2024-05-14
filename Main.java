@@ -19,6 +19,7 @@ public class Main
         {
             summe = summe + i;
         }
+
         //Klausur relevant
         BigInteger mult = new BigInteger("1");
 
