@@ -30,5 +30,7 @@ public class Main
         }
         
         System.out.println("Summe: "+ summe + " Multiplikation: " + mult);
+        
+        //Feature Update 1
     }
 }
