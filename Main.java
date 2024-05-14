@@ -19,7 +19,7 @@ public class Main
         int mul = 1;
         for (int i = 2; i <= 10; i++)
         {
-            mul = mul * i;
+            mul *= i;
         }
     }
 }
